@@ -42,7 +42,7 @@ struct LoginView: View {
                         Image(systemName: "arrow.right")
                     }
                     .foregroundColor(.white)
-                    .frame(width: UIScreen.main.bounds.width - 32, height: 40)
+                    .frame(width: UIScreen.main.bounds.width - 32, height: 48)
                 })
                 .background(Color("brandColor"))
                 .cornerRadius(10)
